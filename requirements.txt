@@ -1,0 +1,16 @@
+# Stack moderno para cuantizacion GPTQ con Transformers + GPTQModel
+# Referencia oficial:
+# https://huggingface.co/docs/transformers/quantization/gptq
+
+torch
+transformers
+optimum
+accelerate
+datasets
+gptqmodel
+
+# Utilidades usadas por el proyecto
+sentencepiece
+pillow
+auto-round
+lm-eval
